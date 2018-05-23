@@ -1,0 +1,7 @@
+{
+  "test_get_site.py::TestGet_site::test_bad_url": true,
+  "test_get_site.py::TestGet_site::test_get_site": true,
+  "test_get_site.py::TestGet_site::test_job_run": true,
+  "test_get_site.py::TestGet_site::test_mock_input": true,
+  "test_get_site.py::TestScrape::test_cleanHTML": true
+}
